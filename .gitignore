@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+frontend/node_modules/
+myenv/
